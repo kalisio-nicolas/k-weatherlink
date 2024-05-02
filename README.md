@@ -1,10 +1,12 @@
 # k-Weatherlink
-
+<!---             
 need edit
 [![Latest Release](https://img.shields.io/github/v/tag/kalisio/k-hubeau?sort=semver&label=latest)](https://github.com/kalisio/k-hubeau/releases)
 [![Build Status](https://app.travis-ci.com/kalisio/k-hubeau.svg?branch=master)](https://app.travis-ci.com/kalisio/k-hubeau)
 
 A [Krawler](https://kalisio.github.io/krawler/) based service to download data from [WeatherLink V2 API](https://https://weatherlink.github.io/)
+
+  -->
 
 
 The **k-Weatherlink** jobs allow to scrape all sort of data from sensors connected to stations. The data are stored in a [MongoDB](https://www.mongodb.com/) database and more precisely in 2 collections:
